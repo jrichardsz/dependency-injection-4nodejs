@@ -1,0 +1,14 @@
+{
+  "name": "dependency-injection-4nodejs",
+  "version": "1.0.0",
+  "description": "Dependency Injection for nodejs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "JRichardsz : https://github.com/jrichardsz",
+  "license": "MIT",
+  "dependencies": {
+    "line-number": "^0.1.0"
+  }
+}
